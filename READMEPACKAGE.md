@@ -72,3 +72,11 @@ create .babelrc file in root directory and copy contents below into file:
     }
   }
 }
+
+
+
+gitignore
+
+node_modules/
+.DS_Store
+dist/
